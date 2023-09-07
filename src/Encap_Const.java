@@ -15,7 +15,7 @@ class CuentaBAncaria{
     }
 }
 
-public class Banco {
+public class Encap_Const {
     public static void main(String[] args){
         CuentaBAncaria person = new CuentaBAncaria("12345",300);
 

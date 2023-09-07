@@ -9,7 +9,7 @@ class Person {
     }
 }
 
-public class Prac_1 {
+public class Class_Object {
     public static void print_line(Person person){
         System.out.println("###########");
         System.out.printf("Nombre: %s \n Edad: %s \n Profesion: %s \n", person.name,person.age, person.profession);
