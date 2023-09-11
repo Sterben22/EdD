@@ -11,7 +11,6 @@ class Circulo implements FiguraGeometrica {
         this.radio = radio;
     }
 
-    @Override
     public double calcularArea() {
         return Math.PI * Math.pow(radio, 2);
     }
@@ -26,8 +25,6 @@ class Rectangulo implements FiguraGeometrica {
         this.largo = largo;
         this.ancho = ancho;
     }
-
-    @Override
     public double calcularArea() {
         return largo * ancho;
     }
