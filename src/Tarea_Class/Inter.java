@@ -1,4 +1,6 @@
-// Definición de la interfaz FiguraGeometrica
+package Tarea_Class;
+
+// Definición de la interfaz classTarea.FiguraGeometrica
 interface FiguraGeometrica {
     double calcularArea();
 }

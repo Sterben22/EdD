@@ -1,6 +1,9 @@
+package Tarea_Class;
+
 import java.util.ArrayList;
 import java.util.Random;
 
+// Codigo del profesor
 public class BingoGenerator {
     public static void main(String[] args) {
         char[] bingoLetters = {'B', 'I', 'N', 'G', 'O'};

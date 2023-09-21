@@ -1,3 +1,5 @@
+package Tarea_Class;
+
 import java.util.Scanner;
 class Person {
     String name, age, profession;

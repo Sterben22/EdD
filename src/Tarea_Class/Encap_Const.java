@@ -1,3 +1,5 @@
+package Tarea_Class;
+
 class CuentaBAncaria{
     private int saldo;
     private String num_cuenta;

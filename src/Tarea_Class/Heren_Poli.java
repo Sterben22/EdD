@@ -1,3 +1,5 @@
+package Tarea_Class;
+
 class Vehiculo {
     String marca, modelo;
 
@@ -35,7 +37,7 @@ public class Heren_Poli {
         System.out.println("Modelo: " + auto.modelo);
         System.out.println("Combustible: " + auto.combustible);
 
-        System.out.println("\nMotocicleta:");
+        System.out.println("\nclassTarea.Motocicleta:");
         System.out.println("Marca: " + moto.marca);
         System.out.println("Modelo: " + moto.modelo);
         System.out.println("Número de llantas: " + moto.llantas);
