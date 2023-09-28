@@ -1,8 +1,10 @@
-- Estructura de Datos
-- Estudiante: Diego A. Espinoza H.
-
 # Información
-Se estara subiendo los codigos del curso EdD.
+- Curso: Estructura de Datos
+- Profesor: Hidalgo Pereda, Lyses Augusto 
+- Estudiante: Espinoza Huamana, Diego Alexhander
+- Ciclo: 23-II
+- Univerisdad Mayor de San Marcos
+
 
 # Datos
 - En **[src/programs2](https://github.com/Sterben22/EdD/tree/master/src/programs2)** se encuentran programas usando varias estructuras aprendidas.
